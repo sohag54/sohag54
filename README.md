@@ -331,14 +331,47 @@ Database
 REST APIs
 Authentication
 Deployment
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sohag54&show_icons=true&theme=default&hide_border=true" alt="Sohag's GitHub Stats"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag54&layout=compact&theme=default&hide_border=true" alt="Top Languages"> </p>
-📈 GitHub Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag54&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"> </p>
-👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohag54&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"> </p>
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/sohag54"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/nosad-sattar-sohag-9792823a4/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:sohag36057@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> </p>
+## 🚀 Deployment
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohag54&show_icons=true&theme=default&hide_border=true" alt="Sohag's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohag54&layout=compact&theme=default&hide_border=true" alt="Top Languages">
+</p>
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohag54&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sohag54&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sohag54">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/nosad-sattar-sohag-9792823a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:sohag36057@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+</p>
 # 🎯 My Goal
 
 I am currently building my skills step by step.
